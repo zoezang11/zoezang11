@@ -1,4 +1,6 @@
-## Hi there 👋
+<span style="background-color: #b1eb34;">About:</span> Studying computer science @ the University of Southern California
+
+
 
 <!--
 **zoezang11/zoezang11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
