@@ -1,6 +1,6 @@
 **About**
 ---
-Hi, I'm Zoe! I'm a third-year computer science student at the University of Southern California.
+Hi, I'm Zoe! I'm a fourth-year computer science student at the University of Southern California.
 
 **Recent Projects**
 ---
@@ -11,8 +11,6 @@ Hi, I'm Zoe! I'm a third-year computer science student at the University of Sout
 **Save for Later iOS App:**
 * An iOS app that combines a user’s to-read, to-watch, and to-listen lists in one place to keep track of books, movies, and music they want to check out later
  
-**Skills & Languages**
+**Skills**
 ---
-**Programming Languages:** C++, Java, Python, Swift, JavaScript, HTML, CSS, SQL
-
-**Tools and Libraries:** GitHub, Docker, Scikit-learn, NumPy, Pandas, MySQL
+**Programming Languages & Tools:** Java, Python, C/C++, Swift, JavaScript, HTML, CSS, SQL, React, NumPy, Pandas
